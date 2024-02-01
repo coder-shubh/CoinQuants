@@ -54,7 +54,7 @@ export default function PaymentSuccess({ navigation, route }) {
                 <CustomButton text={'Back to Home'} Press={() => {
                     navigation.reset({
                         index: 0,
-                        routes: [{ name: 'BottomTabNavigator' }],
+                        routes: [{ name: 'StrategiesList' }],
                     });
                 }} />
             </View>

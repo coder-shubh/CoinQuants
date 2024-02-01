@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19110292518",
+    "project_id": "coinquant-3f3ff",
+    "storage_bucket": "coinquant-3f3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19110292518:android:ef4dde9a8ddae5ce060ae7",
+        "android_client_info": {
+          "package_name": "com.coinquant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOQoDtCK_Is2IzBv5xf10_BojRbTuN1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
